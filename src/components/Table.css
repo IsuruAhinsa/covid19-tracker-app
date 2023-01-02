@@ -1,0 +1,17 @@
+.table-wrapper {
+    height: 350px;
+    overflow: auto;
+}
+
+table {
+    width: 100%;
+}
+
+table tr {
+    display: flex;
+    justify-content: space-between;
+}
+
+table td {
+    padding: 0.3rem;
+}
